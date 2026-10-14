@@ -93,7 +93,6 @@
 			<ul class="nav flex-column pt-3 pt-md-0">
 				<li class="nav-item">
 					<a href="../../index.html" class="nav-link d-flex align-items-center">
-
 						<span class="mt-1 ms-1 sidebar-text">Volt Overview</span>
 					</a>
 				</li>
@@ -121,7 +120,6 @@
 									</path>
 								</svg>
 							</span>
-
 							<span class="sidebar-text">Tables</span>
 						</span>
 						<span class="link-arrow">
@@ -208,7 +206,6 @@
 								class="badge badge-sm bg-secondary ms-1 text-gray-800">v1.4</span></span>
 					</a>
 				</li>
-
 			</ul>
 		</div>
 	</nav>
