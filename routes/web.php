@@ -16,5 +16,4 @@ Route::get('dashboard', [DashboardController::class, 'index'])
 
 Route::resource('pelanggan', PelangganController::class);
 
-Route::put('pelanggan/{pelanggan}', [PelangganController::class, 'update'])
-    ->name('pelanggan.update');
+
